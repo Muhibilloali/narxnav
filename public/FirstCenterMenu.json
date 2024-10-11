@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name_uz": "Bolalar uchun mahsulotlar",
+      "name_ru": "Детские товары",
+      "name_en": "Children's products",
+      "photo": "images/bolalar-tovarlari.png",
+      "url": "https://narxnav.uz/"
+    },
+    {
+      "id": 2,
+      "name_uz": "Bosma mahsulotlar",
+      "name_ru": "Печатная продукция",
+      "name_en": "Printed products",
+      "photo": "images/kitob.png",
+      "url": "https:kun.uz"
+    },
+    {
+      "id": 3,
+      "name_uz": "Ijod va hobbi",
+      "name_ru": "Творчество и хобби",
+      "name_en": "Creativity and hobbies",
+      "photo": "images/gitara.png",
+      "url": "https:kun.uz"
+    }
+    ,
+    {
+      "id": 4,
+      "name_uz": "Elektronika",
+      "name_ru": "Электроника",
+      "name_en": "Electronics",
+      "photo": "images/telefon.png",
+      "url": "https:kun.uz"
+    },
+    {
+      "id": 5,
+      "name_uz": "Go'zallik va salomatlik",
+      "name_ru": "Красота и здоровье",
+      "name_en": "Beauty and health",
+      "photo": "images/kosmetika.png",
+      "url": "https:kun.uz"
+    },
+    {
+      "id": 6,
+      "name_uz": "Uy va bog'",
+      "name_ru": "Дом и сад",
+      "name_en": "Home and garden",
+      "photo": "images/uyuchun.png",
+      "url": "https:kun.uz"
+    },
+    {
+      "id": 7,
+      "name_uz": "Hayvonlar uchun mahsulotlar",
+      "name_ru": "Товары для животных",
+      "name_en": "Pet products",
+      "photo": "/images/kedi1.png",
+      "url": "https:kun.uz"
+    },
+    {
+      "id": 8,
+      "name_uz": "Sport mahsulotlari",
+      "name_ru": "Всё для спорта",
+      "name_en": "Sports products",
+      "photo": "images/sport.png",
+      "url": "https:kun.uz"
+    },
+    {
+      "id": 9,
+      "name_uz": "Kiyim-kechak va poyabzal",
+      "name_ru": "Одежда и обувь",
+      "name_en": "Clothes and shoes",
+      "photo": "images/kiyim.png",
+      "url": "https:kun.uz"
+    }
+  ]
+  
